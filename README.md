@@ -4,7 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&pause=1000&width=435&lines=Job+Desription)](https://git.io/typing-svg)
 
-> Administrando/Desenvolvendo Sistemas ERP <br>
+Atuando em Empresa Privada do Ramo de 🚜 
+Administrando/Desenvolvendo Sistemas ERP <br>
  >> Api <br>
  >> WebServices <br>
  
