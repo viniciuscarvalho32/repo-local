@@ -9,8 +9,8 @@ Administrando/Desenvolvendo Sistemas ERP <br>
  >> WebServices <br>
  
 > Me desenvolvendo em formações FullStack 
- >> NodeJS <br>
- >> Angular <br>  <code>![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)</code>
+ >> <code>![nodedotjs](https://img.shields.io/badge/nodedotjs-000?style=for-the-badge&logo=nodedotjs&logoColor=nodedotjs)</code><br>
+ >> <code>![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)</code> <br>
  >> TypeScript <br>
  >> Java <br>
 
