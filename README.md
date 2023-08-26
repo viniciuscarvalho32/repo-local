@@ -1,7 +1,18 @@
-# repo-local
-Repositorio Local
+## Vinícius de Carvalho
 
-## logo Patricia Branco 👩🏻‍⚕️
-![logovazado](https://github.com/viniciuscarvalho32/repo-local/assets/22281140/64e79339-f69d-4b98-bb3a-b7c0bc681e48)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&pause=1000&width=435&lines=Vin%C3%ADcius+de+Carvalho;Dev+FullStack;39+anos)](https://git.io/typing-svg)
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&pause=1000&width=435&lines=Working+with)](https://git.io/typing-svg)
+
+> Administrando Sistemas ERP
+> Me desenvolvendo em formações FullStack 
+ >> NodeJS
+ >> Angular
+ >> TypeScript
 
 
+ ## Formação Acadêmica
+  - Administração de Empresas
+  - Análise e Desenvolvimento de Softwares
