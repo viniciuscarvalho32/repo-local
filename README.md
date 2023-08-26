@@ -4,7 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&pause=1000&width=435&lines=Job+Desription)](https://git.io/typing-svg)
 
-> Administrando Sistemas ERP <br>
+> Administrando/Desenvolvendo Sistemas ERP <br>
+ >> Api <br>
+ >> WebServices <br>
+ 
 > Me desenvolvendo em formações FullStack 
  >> NodeJS <br>
  >> Angular <br>
