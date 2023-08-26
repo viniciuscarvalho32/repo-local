@@ -14,7 +14,7 @@ Administrando/Desenvolvendo Sistemas ERP <br>
  >> NodeJS <br>
  >> Angular <br>
  >> TypeScript <br>
-
+ >> Java <br>
 
  ## Formação Acadêmica
   - Administração de Empresas
