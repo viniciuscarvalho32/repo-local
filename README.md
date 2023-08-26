@@ -11,7 +11,8 @@ Administrando/Desenvolvendo Sistemas ERP <br>
 > Me desenvolvendo em formações FullStack 
  >> <code>![NodeJS](https://img.shields.io/badge/NodeJS-000?style=for-the-badge&logo=nodedotjs&logoColor=nodedotjs)</code><br>
  >> <code>![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)</code> <br>
- >> TypeScript <br>
+ >> <code>![TypeScript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript&logoColor=C3002F)</code> <br>
+ >> typescript
  >> Java <br>
 
  ## Formação Acadêmica
