@@ -20,5 +20,5 @@ Administrando/Desenvolvendo Sistemas ERP <br>
 
 ---
 # Vamos nos conectar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in//vinicius-de-carvalho-98538124/)   [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/viiini/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in//vinicius-de-carvalho-98538124/)   [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/viiini/) [![Github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/viniciuscarvalho32)
 
