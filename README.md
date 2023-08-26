@@ -6,9 +6,9 @@
 
 > Administrando Sistemas ERP <br>
 > Me desenvolvendo em formações FullStack 
- >> NodeJS
- >> Angular
- >> TypeScript
+ >> NodeJS <br>
+ >> Angular <br>
+ >> TypeScript <br>
 
 
  ## Formação Acadêmica
