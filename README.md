@@ -16,7 +16,7 @@ Administrando/Desenvolvendo Sistemas ERP <br>
 
  ## Formação Acadêmica
   - Administração de Empresas
-  - Análise e Desenvolvimento de Softwares
+  - Análise e Desenvolvimento de Sistemas
 
 ---
 ## Vamos nos conectar
